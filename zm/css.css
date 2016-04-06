@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+.box{ width:100%; margin:0 auto; text-align:center; background:#f2f2f2; position:relative; font-family:\5FAE\8F6F\96C5\9ED1;}
+/*头部导航*/
+.header{ width:942px; height:96px; margin:0 auto; overflow:hidden; position:relative; z-index:9;}
+.logo{ margin-top:8px; float:left;}
+.nav{ width:782px; float:right; height:29px; background:url(../img/nav-b_03.png) no-repeat; margin-top:42px; position:relative; margin-right:2px;}
+.index_nav li{ float:left; height:14px; margin-left:32px; padding-right:32px; font-size:14px; position:relative; padding-top:7px;}
+.index_nav li a{ color:#FFF;}
+.index_nav span{ height:11px; width:1px; background:url(../img/dian_02.png) no-repeat; position:absolute; top:9px; right:0;}
+.index_nav{ float:left;}
+.cang_nav{ width:92px; height:29px; float:left; margin-left:8px; background:url(../img/cang_03.png) no-repeat;}
+.cang_nav a{ line-height:29px; color:#000; margin-left:24px;}
+.hiu_nav{ float:left; width:70px; height:29px; margin-left:22px; padding-top:9px;}
+.hiu_nav a{ color:#fff; margin-left:6px;}
+.hiu_nav img{ margin-top:-1px;}
+.dl_nav{ float:left; line-height:29px; height:29px; padding-top:9px;margin-left:17px;}
+.dl_nav a{ color:#fff; margin-left:9px; margin-right:15px;}
+.sc_nav{ float:left; line-height:29px; height:29px; padding-top:9px;}
+.sc_nav a{ color:#fff; margin-left:7px;}
+.c_chart{ width:100%; height:500px; background:url(../img/fog_03.png) no-repeat; position:absolute;left:-74px; top:-250px;+top:-200px;}
+/*登录身体*/
+.content_D{ width:942px; height:500px; margin-bottom:180px; position:relative; margin:0 auto; margin-bottom:125px;}
+.t_chart_D{ width:769px; height:468px; background:url(../img/chahu_03.png) no-repeat; position:absolute; left:-166px; top:0px;}
+.login_D{ width:372px; height:423px; background:#fff; position:relative; margin-left:565px; margin-top:44px;}
+.l_fillet_D{ width:9px; height:423px; position:absolute; top:0; left:-9px; background:url(../img/yuangj_03.png) no-repeat;}
+.r_fillet_D{ width:9px; height:423px; position:absolute; top:0; right:-9px; background:url(../img/yuangj_05.png) no-repeat;}
+.login_D h2{ width:100%; height:65px; border-bottom:1px solid #dae3e2; margin-top:26px; font-size:16px; line-height:65px;}
+.login_text_D{ text-align:left;}
+.login_text_D input{ width:230px; height:36px; background:#ededed; float:left; margin-top:38px;}
+.login_text_D h3{ width:90px; height:36px;float:left; text-align:center; line-height:36px; margin-top:38px;}
+.password_text_D input{ width:230px; height:36px; background:#ededed; float:left; margin-top:14px; }
+.password_text_D h3{ width:90px; height:36px; float:left; text-align:center; line-height:36px; margin-top:14px;}
+.fp_D{ margin-left:200px; margin-top:19px; display:block;}
+.btn_D{ width:231px; height:35px; display:block; background:url(../img/btn_bg_03.png) no-repeat; text-align:center; line-height:35px; color:#fff; margin-left:90px;+margin-left:44px; margin-top:20px;}
+.login_btn_D{ padding-bottom:38px; border-bottom:1px dashed #828282;}
+.register_D{ text-align:left; margin-left:32px; margin-top:19px;}
+.register_D p{ line-height:25px;}
+.register_D a{ color:#960e10; text-decoration:underline;}
+
+/*注册身体*/
+.content_z{ width:941px; height:545px; background:url(../img/19849_03.png) no-repeat; margin:0 auto;margin-bottom:115px; margin-top:44px;}
+.register_z{ width:694px; height:80px; margin:0 auto; text-align:center; border-bottom:1px solid #dae3e2; overflow:hidden; }
+.register_z h3{ margin-top:36px;}
+.column_z{ width:132px; float:left; margin-left:114px; margin-top:76px;}
+.column_z li{ width:132px; margin-bottom:38px;}
+
+
+
+
+
+
+
+
+
+/*尾部*/
+.footer{ width:100%; height:180px; bottom:0; position:relative; text-align:center;}
+.footer p{ margin-top:10px; line-height:17px; color:#000;}
+.mountain{ width:100%;}
+.footer_m{ position:absolute; left:0; bottom:0; width:100%;}
+.absp{ width:84px; height:150px; border:1px solid #d6d6d6; position:fixed; _position:absolute; top:50%; right:72px; text-align:center;}
+.customer{ width:84px; height:57px; border-bottom:1px solid #d6d6d6; overflow:hidden;}
+.customer img{ margin-top:15px; display:block; margin-bottom:7px; margin-left:34px;}
+.qrc img{ display:block; margin-top:11px; margin-left:21px; margin-bottom:18px;}
+
