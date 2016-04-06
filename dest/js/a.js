@@ -1,1 +1,0 @@
-window.onload=function(){function show(arg1,arg2){alert(arg1+arg2)}document.onclick=function(){show(12,5)}};
